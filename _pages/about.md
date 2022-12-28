@@ -49,12 +49,12 @@ Platform 구현에 대한 정리, 회고
 Interset for MSA, Flutter, React ...  
 
 > Language: Java, Python, Flutter, React  
-> Experience: Enterprise developer/ Application Architect
+> Experience: Enterprise developer/ Application Architect  
 > 비즈니스 기반 IT Platform 구현을 위한 개발 경험 정리 
 
- 유기동물 보호를 통해 Social problem 해결을 위한 노력 
+ 유기동물 보호를 통해 Social problem 해결을 위한 노력
 
- Luppyworld 기반
+ 크로스플랫폼에 대한 관심
 
  작성 중 ...
 
@@ -70,6 +70,7 @@ AWS, Paas
 
 Football, Tennis, Golf ... 
 
-## 이 웹사이트는
-Github Pages used by Jekyll + minimal-mistakes theme
-자세한 내용 ->  [Minimal Mistakes](/blog/minimal-mistakes/)
+## 본 gitbub.io 블로그는 Jekyll + minimal-mistakes theme 를 사용해 만들었습니다.
+
+자세한 내용은  
+[Minimal Mistakes](/blog/minimal-mistakes/)
