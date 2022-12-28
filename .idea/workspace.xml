@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ee04979-15fc-4085-9c24-fd4038442536" name="Changes" comment="minimal-mistakes theme customizing">
+    <list default="true" id="4ee04979-15fc-4085-9c24-fd4038442536" name="Changes" comment=" 오류 해소  Liquid Exception: Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct. in /github/workspace/_docs/14-helpers.md&#10;             ERROR: YOUR SITE COULD NOT BE BUILT:&#10;                    ------------------------------------&#10;                    Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_docs/14-helpers.md" beforeDir="false" afterPath="$PROJECT_DIR$/_docs/14-helpers.md" afterDir="false" />
     </list>
@@ -42,7 +42,7 @@
       <updated>1672125610692</updated>
       <workItem from="1672125615921" duration="2742000" />
       <workItem from="1672128417173" duration="2677000" />
-      <workItem from="1672190120155" duration="3572000" />
+      <workItem from="1672190120155" duration="3826000" />
     </task>
     <task id="LOCAL-00001" summary="minimal-mistakes theme 적용">
       <created>1672128934260</created>
@@ -86,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672193590136</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=" 오류 해소  Liquid Exception: Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct. in /github/workspace/_docs/14-helpers.md&#10;             ERROR: YOUR SITE COULD NOT BE BUILT:&#10;                    ------------------------------------&#10;                    Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct.">
+      <created>1672194753776</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672194753777</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +113,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="minimal-mistakes theme 적용" />
     <MESSAGE value="minimal-mistakes theme customizing" />
-    <option name="LAST_COMMIT_MESSAGE" value="minimal-mistakes theme customizing" />
+    <MESSAGE value=" 오류 해소  Liquid Exception: Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct. in /github/workspace/_docs/14-helpers.md&#10;             ERROR: YOUR SITE COULD NOT BE BUILT:&#10;                    ------------------------------------&#10;                    Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct." />
+    <option name="LAST_COMMIT_MESSAGE" value=" 오류 해소  Liquid Exception: Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct. in /github/workspace/_docs/14-helpers.md&#10;             ERROR: YOUR SITE COULD NOT BE BUILT:&#10;                    ------------------------------------&#10;                    Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct." />
   </component>
 </project>
