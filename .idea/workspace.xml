@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ee04979-15fc-4085-9c24-fd4038442536" name="Changes" comment="2022-12-28 첫 포스팅">
-      <change beforePath="$PROJECT_DIR$/_pages/portfolio-archive.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/portfolio-archive.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <updated>1672125610692</updated>
       <workItem from="1672125615921" duration="2742000" />
       <workItem from="1672128417173" duration="2677000" />
-      <workItem from="1672190120155" duration="13119000" />
+      <workItem from="1672190120155" duration="13263000" />
     </task>
     <task id="LOCAL-00001" summary="minimal-mistakes theme 적용">
       <created>1672128934260</created>
@@ -162,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672207972443</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="2022-12-28 첫 포스팅">
+      <created>1672208215378</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1672208215378</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
