@@ -3,7 +3,7 @@
 Billy Rick:
   name        : "Taeyong Kang"
   bio         : "Interest for MSA/React/Flutter ..."
-  avatar      : "/assets/images/bio_photo.jpg"
+  avatar      : "/assets/images/bio-photo-3.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -18,7 +18,7 @@ Billy Rick:
 Cornelius Fiddlebone:
   name        : "Cornelius Fiddlebone"
   bio         : "I ordered what?"
-  avatar      : "/assets/images/bio_photo.jpg"
+  avatar      : "/assets/images/bio-photo-3.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
