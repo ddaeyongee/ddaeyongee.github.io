@@ -19,11 +19,11 @@
 //
 // 이에 이 영역을 포함한 전체 영역에 대한 조정을 실시했으며,
 // 제가 가지고 있는 samsung z fold 3에서 외부 액정, 내부 액정, 내부 액정 회전시,
-// 데스크탑에서 작을 때 부터 큰 사이즈 까지 모두 최적이라 생각되는 넓이에 맞춘
+// 데스크탑에서 작을 때 부터 큰 사이즈 까지 모두 최적이라 생각되는 넓이에 맞춘 
 // 개인적인 최적화된 값 입니다.
 //
 // 원본위치: [remote-theme]/_sass/minimal-mistakes/_variables.scss
-//
+//   
 $small: 576px;            // default 600px
 $medium: 720px;           // default 768px
 $medium-wide: $medium;    // default 900px
@@ -142,7 +142,7 @@ a {
 
   //
   // page hero에서 호출하는 page meta 출력시 사용되는 글꼴의 크기를 키웠습니다.
-  // 제가 추가로 작성한 _include/excerpt_hero.html 에서 표시되는 readtime등의
+  // 제가 추가로 작성한 _include/excerpt_hero.html 에서 표시되는 readtime등의 
   // meta 데이터 출력시 사용되는 값입니다.
   //
   // 이 값은 .grid__item 내에서 사용되는 값입니다.
@@ -242,9 +242,9 @@ a {
     background-color: mix($background-color, $notice-color, $code-notice-background-mix)
   }
 
-  pre code {
-    background-color: inherit;
-  }
+	pre code {
+		background-color: inherit;
+	}
 
   ul {
     &:last-child {
@@ -298,7 +298,7 @@ a {
 /*
    List view
    ========================================================================== */
-
+  
 .list__item {
   .page__meta {
     margin: 0 0 4px;
