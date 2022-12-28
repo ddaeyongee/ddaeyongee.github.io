@@ -22,6 +22,13 @@ tags:
 ---
 markdown 첫 포스팅
 
-## jekyll
+## jekyll 
 ## markdown
+
+이렇게 하면 되는구낭.
+오늘부터 개발 노트를 작성해보려고 한다.
+
+Furever 플랫폼 개발 노트
+Enterprise SWA 기록 
+
 
