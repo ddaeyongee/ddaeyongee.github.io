@@ -115,7 +115,7 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/bluetigero.jpg"
   bio              : "Interest for MSA, Flutter, React ... "
-  location         : "Republic of Korea"
+  location         : "Seoul, Republic of Korea"
   links:
 #    - label: "Made Mistakes"
 #      icon: "fas fa-fw fa-link"

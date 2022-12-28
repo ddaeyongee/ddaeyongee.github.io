@@ -2,7 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ee04979-15fc-4085-9c24-fd4038442536" name="Changes" comment=" 오류 막아버림  Liquid Exception: Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct. in /github/workspace/_docs/14-helpers.md&#10;             ERROR: YOUR SITE COULD NOT BE BUILT:&#10;                    ------------------------------------&#10;                    Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct.">
-      <change beforePath="$PROJECT_DIR$/_docs/14-helpers.md" beforeDir="false" afterPath="$PROJECT_DIR$/_docs/14-helpers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/_posts/2022-12-28-first-post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/rpi.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/afdex.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/baz-boom-identity.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/doe-rsm.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/easybender.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/ecligner.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/ezscan2006.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/fizz-bang-identity.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/foo-bar-website.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/ginger-gulp-identity.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/pacsplus.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/z-stamp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jekyll/_posts/2021-11-12-first-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/jekyll/_posts/2021-11-12-first-post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpi4cluster/_posts/2021-11-09-design.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpi4cluster/_posts/2021-11-10-hardware.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpi4cluster/index.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,17 +40,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.SQL&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/83740/IdeaProjects/ddaeyongee.github.io/dev/_posts",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.SQL",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\83740\IdeaProjects\ddaeyongee.github.io\dev\_posts" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,7 +67,7 @@
       <updated>1672125610692</updated>
       <workItem from="1672125615921" duration="2742000" />
       <workItem from="1672128417173" duration="2677000" />
-      <workItem from="1672190120155" duration="4439000" />
+      <workItem from="1672190120155" duration="7684000" />
     </task>
     <task id="LOCAL-00001" summary="minimal-mistakes theme 적용">
       <created>1672128934260</created>
@@ -99,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672194994303</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=" 오류 막아버림  Liquid Exception: Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct. in /github/workspace/_docs/14-helpers.md&#10;             ERROR: YOUR SITE COULD NOT BE BUILT:&#10;                    ------------------------------------&#10;                    Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct.">
+      <created>1672195621904</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672195621904</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

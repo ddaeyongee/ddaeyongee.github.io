@@ -6,7 +6,7 @@ header:
   #overlay_image: https://source.unsplash.com/1600x900/?christmas
   overlay_filter: 0.4
   caption: "Photo credit: [**Unsplash Source Random**](https://source.unsplash.com)"
-excerpt: 개발 경험 정리
+excerpt: ""
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -21,25 +21,24 @@ last_modified_at: 2021-11-15 12:23:42 +0900
 toc: true
 toc_sticky: true
 tags:
-  - MFC
-  - XTP
-  - Qt
-  - OpenGL
-  - Ogre3D
-  - VTK
-  - Raspberry Pi
+  - MSA
+  - Microservice Architecture
+  - Java
+  - Javascript
+  - AWS
+  - Paas
   - Kubernetes
-  - Docker Swarm
-  - MAUI
-  - UNO
-  - Go
-  - Consulting
+  - Openshift
   - DevOps
   - CI/CD
-  - Faas
+  - Flutter
+  - Mongodb
+  - Express
+  - React
+  - Nodejs
 ---
 
-이 웹사이트는 소프트웨어 개발 기술과 서버 운영에 관한 경험담을 주로 다루고 있습니다.
+Platform 구현에 대한 정리, 회고
 
 이 웹사이트에서 사용하는 대부분의 이미지는 <a href="https://unsplash.com">Unsplash</a>에서 
 제공하는 이미지를 사용하고 있으며, 일부는 <a href="https://source.unsplash.com/">Unsplash Source</a>의 랜덤 및 검색 서비스를 통해 제공하고 있습니다.
@@ -49,16 +48,15 @@ tags:
 
 Interset for MSA, Flutter, React ...  
 
-> Java, Python, Flutter, React  
->> Enterprise developer/ Application Architect 
->
+> Language: Java, Python, Flutter, React  
+> Experience: Enterprise developer/ Application Architect
 > 비즈니스 기반 IT Platform 구현을 위한 개발 경험 정리 
 
  유기동물 보호를 통해 Social problem 해결을 위한 노력 
 
  Luppyworld 기반
 
- ...
+ 작성 중 ...
 
 ## 주요 사용 기술
 

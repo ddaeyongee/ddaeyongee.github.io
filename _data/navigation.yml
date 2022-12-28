@@ -34,17 +34,6 @@ main:
   - title: "About"
     url: /about/
 
-# rpi4cluster sidebar
-rpi4cluster:
-  - title: 라즈베리파이 4 클러스터
-    url: /rpi4cluster/
-  - title: "1. 현재 구성"
-    children:
-      - title: "디자인 목표"
-        url: /rpi4cluster/design/
-      - title: "하드웨어"
-        url: /rpi4cluster/hardware/
-
 # owaf sidebar
 owaf:
   - title: OWAF
