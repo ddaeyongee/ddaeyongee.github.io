@@ -49,7 +49,7 @@
       <updated>1672125610692</updated>
       <workItem from="1672125615921" duration="2742000" />
       <workItem from="1672128417173" duration="2677000" />
-      <workItem from="1672190120155" duration="16187000" />
+      <workItem from="1672190120155" duration="16274000" />
     </task>
     <task id="LOCAL-00001" summary="minimal-mistakes theme 적용">
       <created>1672128934260</created>
@@ -212,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672210680480</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="2022-12-28 포스팅">
+      <created>1672211256783</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1672211256783</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
