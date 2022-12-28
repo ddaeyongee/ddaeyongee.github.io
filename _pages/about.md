@@ -17,8 +17,8 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2021-11-15 12:23:42 +0900
-toc: true
+last_modified_at: 2022-12-28 14:33:00 +0900
+toc: **true**
 toc_sticky: true
 tags:
   - MSA

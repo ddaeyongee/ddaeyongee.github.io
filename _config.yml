@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "강태용"
+title                    : "강태용 기술 블로그"
 title_separator          : "-"
 subtitle                 : #"개발 정리" #"A Jekyll theme"
 name                     : &name "강태용" # &name is a YAML anchor which can be *referenced later
@@ -114,8 +114,8 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/bio_photo.jpg"
-  bio              : "Interest for MSA, Flutter, React ... "
-  location         : "Seoul, Republic of Korea"
+  bio              : "Application Architect"
+  location         : "Seoul, Korea"
   links:
 #    - label: "Made Mistakes"
 #      icon: "fas fa-fw fa-link"
