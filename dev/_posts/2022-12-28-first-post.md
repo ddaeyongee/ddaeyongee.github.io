@@ -10,9 +10,6 @@ header:
   overlay_filter: 0.5
   caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/842ofHC6MaI)"
 
-tags:
-- [Blog, jekyll, Github, Git]
-
 toc: true
 toc_sticky: true
 

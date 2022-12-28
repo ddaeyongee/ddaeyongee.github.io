@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ee04979-15fc-4085-9c24-fd4038442536" name="Changes" comment="2022-12-28 첫 포스팅" />
+    <list default="true" id="4ee04979-15fc-4085-9c24-fd4038442536" name="Changes" comment="2022-12-28 첫 포스팅">
+      <change afterPath="$PROJECT_DIR$/dev/_posts/2022-12-28-ios-app-store-connect.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/_posts/2022-12-28-first-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/_posts/2022-12-28-first-post.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +28,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/83740/IdeaProjects/ddaeyongee.github.io",
+    "last_opened_file_path": "C:/Users/83740/IdeaProjects/ddaeyongee.github.io/dev/_posts",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.SQL",
     "show.migrate.to.gradle.popup": "false"
@@ -32,8 +36,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\83740\IdeaProjects\ddaeyongee.github.io" />
       <recent name="C:\Users\83740\IdeaProjects\ddaeyongee.github.io\dev\_posts" />
+      <recent name="C:\Users\83740\IdeaProjects\ddaeyongee.github.io" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -46,7 +50,7 @@
       <updated>1672125610692</updated>
       <workItem from="1672125615921" duration="2742000" />
       <workItem from="1672128417173" duration="2677000" />
-      <workItem from="1672190120155" duration="13722000" />
+      <workItem from="1672190120155" duration="15000000" />
     </task>
     <task id="LOCAL-00001" summary="minimal-mistakes theme 적용">
       <created>1672128934260</created>
@@ -188,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672208599369</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="2022-12-28 첫 포스팅">
+      <created>1672208772096</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1672208772096</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
