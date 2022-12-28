@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ee04979-15fc-4085-9c24-fd4038442536" name="Changes" comment="2022-12-28 첫 포스팅">
-      <change afterPath="$PROJECT_DIR$/jekyll/_posts/2021-11-12-first-post.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jekyll/_posts/2021-11-12-minimal-mistakes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jekyll/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/_posts/2022-12-28-first-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/_posts/2022-12-28-first-post.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +49,7 @@
       <updated>1672125610692</updated>
       <workItem from="1672125615921" duration="2742000" />
       <workItem from="1672128417173" duration="2677000" />
-      <workItem from="1672190120155" duration="12283000" />
+      <workItem from="1672190120155" duration="12647000" />
     </task>
     <task id="LOCAL-00001" summary="minimal-mistakes theme 적용">
       <created>1672128934260</created>
@@ -133,7 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672203191071</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2022-12-28 첫 포스팅">
+      <created>1672207324655</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1672207324655</updated>
+    </task>
+    <task id="LOCAL-00013" summary="2022-12-28 첫 포스팅">
+      <created>1672207451098</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1672207451098</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
