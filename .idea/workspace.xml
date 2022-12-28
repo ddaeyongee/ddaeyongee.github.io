@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ee04979-15fc-4085-9c24-fd4038442536" name="Changes" comment="2022-12-28 수정">
-      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+    <list default="true" id="4ee04979-15fc-4085-9c24-fd4038442536" name="Changes" comment="google 검색 허용 기능 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +145,7 @@
       <workItem from="1672125615921" duration="2742000" />
       <workItem from="1672128417173" duration="2677000" />
       <workItem from="1672190120155" duration="19747000" />
-      <workItem from="1672217288363" duration="298000" />
+      <workItem from="1672217288363" duration="983000" />
     </task>
     <task id="LOCAL-00001" summary="minimal-mistakes theme 적용">
       <created>1672128934260</created>
@@ -344,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672213278825</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="google 검색 허용 기능 추가">
+      <created>1672217618907</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1672217618907</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,6 +375,7 @@
     <MESSAGE value="2022-12-28 첫 포스팅" />
     <MESSAGE value="2022-12-28 포스팅" />
     <MESSAGE value="2022-12-28 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-12-28 수정" />
+    <MESSAGE value="google 검색 허용 기능 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="google 검색 허용 기능 추가" />
   </component>
 </project>
