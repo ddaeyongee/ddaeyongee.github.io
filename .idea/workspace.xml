@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ee04979-15fc-4085-9c24-fd4038442536" name="Changes" comment=" 오류 막아버림  Liquid Exception: Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct. in /github/workspace/_docs/14-helpers.md&#10;             ERROR: YOUR SITE COULD NOT BE BUILT:&#10;                    ------------------------------------&#10;                    Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct.">
-      <change afterPath="$PROJECT_DIR$/dev/_posts/2022-12-28-first-post.md" afterDir="false" />
+    <list default="true" id="4ee04979-15fc-4085-9c24-fd4038442536" name="Changes" comment="2022-12-28 첫 포스팅">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_drafts/rpi.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/afdex.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/baz-boom-identity.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/doe-rsm.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/easybender.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/ecligner.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/ezscan2006.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/fizz-bang-identity.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/foo-bar-website.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/ginger-gulp-identity.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/pacsplus.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/z-stamp.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jekyll/_posts/2021-11-12-first-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/jekyll/_posts/2021-11-12-first-post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpi4cluster/_posts/2021-11-09-design.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpi4cluster/_posts/2021-11-10-hardware.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpi4cluster/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_owaf/01-owaf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/_posts/2022-12-28-first-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/_posts/2022-12-28-first-post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jekyll/_posts/2021-11-12-minimal-mistakes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jekyll/index.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +53,7 @@
       <updated>1672125610692</updated>
       <workItem from="1672125615921" duration="2742000" />
       <workItem from="1672128417173" duration="2677000" />
-      <workItem from="1672190120155" duration="7684000" />
+      <workItem from="1672190120155" duration="8659000" />
     </task>
     <task id="LOCAL-00001" summary="minimal-mistakes theme 적용">
       <created>1672128934260</created>
@@ -132,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672195621904</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2022-12-28 첫 포스팅">
+      <created>1672202230408</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672202230408</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +147,7 @@
     <MESSAGE value="minimal-mistakes theme customizing" />
     <MESSAGE value=" 오류 해소  Liquid Exception: Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct. in /github/workspace/_docs/14-helpers.md&#10;             ERROR: YOUR SITE COULD NOT BE BUILT:&#10;                    ------------------------------------&#10;                    Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct." />
     <MESSAGE value=" 오류 막아버림  Liquid Exception: Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct. in /github/workspace/_docs/14-helpers.md&#10;             ERROR: YOUR SITE COULD NOT BE BUILT:&#10;                    ------------------------------------&#10;                    Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct." />
-    <option name="LAST_COMMIT_MESSAGE" value=" 오류 막아버림  Liquid Exception: Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct. in /github/workspace/_docs/14-helpers.md&#10;             ERROR: YOUR SITE COULD NOT BE BUILT:&#10;                    ------------------------------------&#10;                    Could not find post &quot;2010-09-09-post-gallery&quot; in tag 'post_url'. Make sure the post exists and the name is correct." />
+    <MESSAGE value="2022-12-28 첫 포스팅" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-12-28 첫 포스팅" />
   </component>
 </project>

@@ -34,14 +34,14 @@ main:
   - title: "About"
     url: /about/
 
-# owaf sidebar
-owaf:
-  - title: OWAF
-    url: /owaf/
-  - title: "현재"
-    children:
-      - title: "작성중..."
-        url: /owaf/
+## owaf sidebar
+#owaf:
+#  - title: OWAF
+#    url: /owaf/
+#  - title: "현재"
+#    children:
+#      - title: "작성중..."
+#        url: /owaf/
 
 # documentation sidebar
 docs:

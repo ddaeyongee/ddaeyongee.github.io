@@ -13,9 +13,8 @@ toc: true
 toc_sticky: true
 
 tags:
-  - CMake
-  - VTK
-  - vcpkg
+  - jekyll
+  - Github
 
 date: 2022-12-28
 last_modified_at: 2022-12-28

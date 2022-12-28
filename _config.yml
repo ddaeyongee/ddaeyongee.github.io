@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/bluetigero.jpg"
+  avatar           : "/assets/images/bio_photo.jpg"
   bio              : "Interest for MSA, Flutter, React ... "
   location         : "Seoul, Republic of Korea"
   links:
@@ -253,63 +253,63 @@ defaults:
       comments: false
       sidebar:
         nav: "docs"
-  # rpi4cluster
-  - scope:
-      path: "rpi4cluster"
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      show_date: true
-      comments: true
-      share: true
-      related: true
-      toc: true
-      toc_sticky: true
-      sidebar:
-        nav: "rpi4cluster"      
-      header:
-        teaser: /assets/images/unsplash/rpi4-rZKdS0wI8Ks.jpg
-        overlay_image: /assets/images/unsplash/rpi4-rZKdS0wI8Ks.jpg
-        overlay_filter: 0.4
-        caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/rZKdS0wI8Ks)"
-  # jekyll
-  - scope:
-      path: "jekyll"
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      show_date: true
-      comments: true
-      share: true
-      related: true
-      toc: true
-      toc_sticky: true
-      # header:
-      #   teaser: /assets/images/unsplash/rpi4-rZKdS0wI8Ks.jpg
-      #   overlay_image: /assets/images/unsplash/rpi4-rZKdS0wI8Ks.jpg
-      #   overlay_filter: 0.4
-      #   caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/rZKdS0wI8Ks)"
-  # owaf
-  - scope:
-      path: "owaf"
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      show_date: true
-      comments: true
-      share: true
-      related: true
-      toc: true
-      toc_sticky: true
-      sidebar:
-        nav: "owaf"      
-      header:
-        overlay_image: /assets/images/unsplash/cpp-UjJWhMerJx0.jpg
-        overlay_filter: 0.4
-        caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/UjJWhMerJx0)"
+#  # rpi4cluster
+#  - scope:
+#      path: "rpi4cluster"
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      show_date: true
+#      comments: true
+#      share: true
+#      related: true
+#      toc: true
+#      toc_sticky: true
+#      sidebar:
+#        nav: "rpi4cluster"
+#      header:
+#        teaser: /assets/images/unsplash/rpi4-rZKdS0wI8Ks.jpg
+#        overlay_image: /assets/images/unsplash/rpi4-rZKdS0wI8Ks.jpg
+#        overlay_filter: 0.4
+#        caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/rZKdS0wI8Ks)"
+#  # jekyll
+#  - scope:
+#      path: "jekyll"
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      show_date: true
+#      comments: true
+#      share: true
+#      related: true
+#      toc: true
+#      toc_sticky: true
+#      # header:
+#      #   teaser: /assets/images/unsplash/rpi4-rZKdS0wI8Ks.jpg
+#      #   overlay_image: /assets/images/unsplash/rpi4-rZKdS0wI8Ks.jpg
+#      #   overlay_filter: 0.4
+#      #   caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/rZKdS0wI8Ks)"
+#  # owaf
+#  - scope:
+#      path: "owaf"
+#    values:
+#      layout: single
+#      author_profile: false
+#      read_time: true
+#      show_date: true
+#      comments: true
+#      share: true
+#      related: true
+#      toc: true
+#      toc_sticky: true
+#      sidebar:
+#        nav: "owaf"
+#      header:
+#        overlay_image: /assets/images/unsplash/cpp-UjJWhMerJx0.jpg
+#        overlay_filter: 0.4
+#        caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/UjJWhMerJx0)"
   # portfolio
   - scope:
       path: ""
