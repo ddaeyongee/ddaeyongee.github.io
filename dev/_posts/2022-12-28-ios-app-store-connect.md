@@ -19,13 +19,14 @@ tags:
   - appstore
   - apple
 ---
-[ios] 어플리케이션 발행하기
+
+## 사전준비 
 
 - iOS 발행은 맥북 필요. 
 - Xcode도 앱스토어에서 찾아서 설치.
 - Apple Developer Program에 개발자로 가입해야 합니다. (참고 가입시 비용 발생. 1년에 13만원 정도)
 
-## 사전준비 : 버전체크
+## 버전체크
 
   앱을 빌드하기 전 !! 
   지금 발행하는 앱의 버전을 수정하고 싶으면 pubspec.yaml 파일에서 기록하고 pub get 누르면 됩니다.
@@ -48,7 +49,7 @@ https://developer.apple.com/programs/
 ios폴더를 우클릭해서 Xcode에서 오픈하기 누르고 시작하면 됩니다.
 Xcode 왼쪽 파일트리에서 젤 위의 Runner 눌러보시면 뭐가 뜹니다.
 
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/ios-app-store-connect-1.png){% endraw %}
+![ios-app-store-connect-1](/assets/images/ios-app-store-connect-1.png)
 
 1. Bundle Identifier를 확인합니다.
    이게 앱스토어에서 앱들을 구분짓는 유니크한 아이디입니다.
@@ -69,45 +70,53 @@ Xcode 왼쪽 파일트리에서 젤 위의 Runner 눌러보시면 뭐가 뜹니�
 
 ## developer.apple.com/ 접속
 
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/ios-app-store-connect-2.png){% endraw %}
+![ios-app-store-connect-2](/assets/images/ios-app-store-connect-2.png)
+
 https://developer.apple.com/account/
 Account 페이지에서 certificates, identifiers & profiles 메뉴를 눌러봅니다.
 거기서 Identifiers 메뉴에서 App ID 새로만들기 이런거 누르시면 됩니다.
 
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/ios-app-store-connect-3.png){% endraw %}
+![ios-app-store-connect-3](/assets/images/ios-app-store-connect-3.png)
+
 ▲ App ID 만든다고 하면 됩니다.
 타입정하라고 나오면 App Clip 말고 App으로 합시다
 
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/ios-app-store-connect-4.png){% endraw %}
+![ios-app-store-connect-4](/assets/images/ios-app-store-connect-4.png)
+
 ▲ 앱 설명을 영어로 잘 적고 Bundle ID를 여기에 잘 기록하면 되는데
 Bundle ID는 아까처럼 Xcode에서 확인할 수 있습니다.
 하단에 Capabilities에 내 앱이 사용중인 항목이 있다면 체크합시다.
 아마 없을듯
 
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/ios-app-store-connect-5.png){% endraw %}
+![ios-app-store-connect-5](/assets/images/ios-app-store-connect-5.png)
+
 ▲ https://appstoreconnect.apple.com/
 여기로 들어가서 앱을 눌러봅니다. 그리고 새 앱을 만들어봐요.
 
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/ios-app-store-connect-6.png){% endraw %}
+![ios-app-store-connect-6](/assets/images/ios-app-store-connect-6.png)
+
 ▲ 그리고 여러가지 정보를 기입하면 됩니다.
 SKU는 여러분만 볼 수 있는 앱 이름입니다.
 그리고 이제 Xcode 가서 archive 빌드하면 끝
 
 ## Xcode로 돌아와서 마지막 확인
 
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/ios-app-store-connect-7.png){% endraw %}
+![ios-app-store-connect-7](/assets/images/ios-app-store-connect-7.png)
+
 ▲ Xcode를 다시 켜봅니다.
 앱에 서명해야 앱스토어에 올릴 수 있습니다.
 1. 자동 서명하기 버튼이 체크되어있는지 확인합시다.
    체크안하면 수동으로 서명해야 한다
 2. Team 항목에서 개발자 등록된 계정도 선택해야 함
 
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/ios-app-store-connect-8.png){% endraw %}
+![ios-app-store-connect-8](/assets/images/ios-app-store-connect-8.png)
+
 ▲ Failed to create provisioning profile 에러가 나는 경우
 상단메뉴 Product - Destination - My Mac 을 선택하고 하단에 Try again 버튼을 누르면 해결됩니다.
 그래도 안되면 상단 Xcode - Preferences - Account 메뉴에서 개발자계정으로 로그인했는지 확인.
 
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/ios-app-store-connect-9.png){% endraw %}
+![ios-app-store-connect-9](/assets/images/ios-app-store-connect-9.png)
+
 ▲ 이제 Xcode 상단메뉴에서
 Product - Destination - Any iOS device 누르시고
 Product - Archive 누르면 됩니다.
