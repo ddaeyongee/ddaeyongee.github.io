@@ -12,8 +12,8 @@ toc: true
 toc_sticky: true
 
 tags:
-  - spring
-  - maven
+  - javascript
+  - html
 ---
 
 Uncaught TypeError: Cannot set properties of null (setting 'innerHTML')
