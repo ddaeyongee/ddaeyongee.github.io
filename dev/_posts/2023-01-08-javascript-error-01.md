@@ -22,11 +22,10 @@ Uncaught TypeError: Cannot set properties of null (setting 'innerHTML')
 위와 같이 script 태그를 활용한 innerHTML를 사용하여 필드 호출시 아래와 같은 null 오류가 발생할 수 있다.
 
 ```
-index.html?_ijt=k8ile6j503u771v0cq4cc5emet&_ij_reload=RELOAD_ON_SAVE:26 Uncaught TypeError: Cannot set properties of null (setting 'innerHTML')
-at index.html?_ijt=k8ile6j503u771v0cq4cc5emet&_ij_reload=RELOAD_ON_SAVE:26:57
+index.html?_ijt=k8ile6j503u771v0cq4cc5emet&_ij_reload=RELOAD_ON_SAVE:26 
+  Uncaught TypeError: Cannot set properties of null (setting 'innerHTML')
+  at index.html?_ijt=k8ile6j503u771v0cq4cc5emet&_ij_reload=RELOAD_ON_SAVE:26:57
 ```
-
-## Cause
 
 브라우저가 html 리소스를 로딩할 때 위에서부터 순서대로 읽는다.
 동적 데이터 처리를 위한 script 태그에서 선언한 필드가 호출하는 지점보다 위에 있는 경우 발생
@@ -36,46 +35,7 @@ at index.html?_ijt=k8ile6j503u771v0cq4cc5emet&_ij_reload=RELOAD_ON_SAVE:26:57
   </script>
 ```
 
-## Solution
-
 document 활용 html 호출 기능 사용시  
-script 태그와 body 태그 위치를 적절하게 조정.  
+script 태그와 body 태그 위치를 적절하게 조정해서 극복ㄱㄱ   
 
-
-```
-<buildSpec>
- ...
-  <buildCommand>
-    <name>org.maven.ide.eclipse.maven2Builder</name>
-    <arguments>
-    </arguments>
-  </buildCommand>
-  <buildCommand>
-    <name>org.eclipse.m2e.core.maven2Builder</name>
-    <arguments>
-    </arguments>
-  </buildCommand>
-  ...
-</buildSpec>
-```
-```
-<natures>
-  ...
-  <nature>org.maven.ide.eclipse.maven2Nature</nature>
-  <nature>org.eclipse.m2e.core.maven2Nature</nature>
-  ...
-</natures> 
-```
-
-[홈]/.classpath 
-아래 설정 추가   
-
-```
-<classpath>
-  ...
-  <classpathentry kind="con" path="org.maven.ide.eclipse.MAVEN2_CLASSPATH_CONTAINER"/>
-  <classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER"/>
-  ...
-</classpath>
-```
 
