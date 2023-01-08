@@ -31,7 +31,9 @@ javascript에서 네트워크 통신을 하기 위해 주로 fetch 함수를 많
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
     <script>
       axios
-        .get("https://jsonplaceholder.typicode.com/todos/1")
+        .get(
+          "https://1b6a571f-bb08-44ad-8ff3-3bd16418d84c.mock.pstmn.io/products"
+        )
         .then(function (result) {
           console.log("통신 결과 : ", result.status);
           console.log("data : ", result.data);
@@ -44,6 +46,7 @@ javascript에서 네트워크 통신을 하기 위해 주로 fetch 함수를 많
   </head>
   <body></body>
 </html>
+
 ```
 
 ![img.png](/assets/images/img.png)
