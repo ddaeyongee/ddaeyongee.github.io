@@ -46,11 +46,11 @@ javascript에서 네트워크 통신을 하기 위해 주로 fetch 함수를 많
 </html>
 ```
 
-![img.png](img.png)
+![img.png](/assets/images/img.png)
 
 ## postman으로 샘플 Mock Server 생성
 
-![img_1.png](img_1.png)
+![img_1.png](/assets/images/img_1.png)
 
 postman을 사용해 샘플 데이터를 가져올 Mock Server를 생성.  
 이때 생성되는 INITIAL url 을 가지고 네트워크 통신 테스트를 할 수 있다.   
@@ -60,9 +60,9 @@ postman을 사용해 샘플 데이터를 가져올 Mock Server를 생성.
 포스트맨에서 제공해주는 Mock Server는 요청 횟수가 1분 당 60회로 제한되어 있어서,  
 그 이상으로 보내게 되면 429 error 발생하면서 몇 시간 정도 이용 제한이 생긴다.  
   
-![img_2.png](img_2.png)
+![img_2.png](/assets/images/img_2.png)
 Mock Server 로부터 받은 결과를 html 에서 호출하면 아래와 같이 JSON 결과 데이터를 가져옴.  
 
-![img_3.png](img_3.png)
+![img_3.png](/assets/images/img_3.png)
 
   
