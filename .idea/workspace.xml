@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ee04979-15fc-4085-9c24-fd4038442536" name="Changes" comment="2023-01-08 포스팅">
+    <list default="true" id="4ee04979-15fc-4085-9c24-fd4038442536" name="Changes" comment="font-size 변경">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +158,7 @@
       <workItem from="1672621346797" duration="3460000" />
       <workItem from="1672971562291" duration="29000" />
       <workItem from="1673168980271" duration="8352000" />
-      <workItem from="1673315196488" duration="1952000" />
+      <workItem from="1673315196488" duration="2981000" />
     </task>
     <task id="LOCAL-00001" summary="minimal-mistakes theme 적용">
       <created>1672128934260</created>
@@ -425,7 +426,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673177003781</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="font-size 변경">
+      <created>1673329879835</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1673329879835</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,6 +461,7 @@
     <MESSAGE value="google 검색 허용 기능 추가" />
     <MESSAGE value="2023-01-02 포스팅" />
     <MESSAGE value="2023-01-08 포스팅" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-01-08 포스팅" />
+    <MESSAGE value="font-size 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="font-size 변경" />
   </component>
 </project>

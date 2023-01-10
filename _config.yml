@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "sunrise" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Teyon's Tech note"
+title                    : "TAEYONG TECH NOTE"
 title_separator          : "-"
 subtitle                 : #"개발 정리" #"A Jekyll theme"
 name                     : &name "강태용" # &name is a YAML anchor which can be *referenced later
