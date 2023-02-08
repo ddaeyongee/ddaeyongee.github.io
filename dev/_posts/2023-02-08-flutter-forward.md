@@ -15,10 +15,9 @@ tags:
   - flutter
 ---
 
-What's next the Flutter?  
-(in Nairobi, Kenya on January 25, 2023!)  
-  
-  
+What's next the Flutter?
+(in Nairobi, Kenya on January 25, 2023!)
+
 드디어 고대하던 Flutter 3.7 version release  
   
 ![flutterforward1](/assets/images/flutterforward01.png)  
