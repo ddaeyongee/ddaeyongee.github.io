@@ -16,12 +16,13 @@ tags:
 ---
 
 What's next the Flutter?  
-(Setting out our vision at the Flutter Forward event in Nairobi)  
+(in Nairobi, Kenya on January 25, 2023!)  
   
   
-드디어 Flutter 3.7 version release  
-
+드디어 고대하던 Flutter 3.7 version release  
+  
 ![flutterforward1](/assets/images/flutterforward01.png)  
+  
 ![flutterforward2](/assets/images/flutterforward02.png)  
 4가지 테마:  
 획기적인 그래픽 성능(임펠러, 쉐이더, 3D 지원)  
