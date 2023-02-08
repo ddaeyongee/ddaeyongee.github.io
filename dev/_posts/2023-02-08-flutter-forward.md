@@ -18,6 +18,7 @@ tags:
 What's next the Flutter?  
 (Setting out our vision at the Flutter Forward event in Nairobi)  
   
+  
 드디어 Flutter 3.7 version release  
 
 ![flutterforward1](/assets/images/flutterforward01.png)  
