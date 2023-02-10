@@ -65,8 +65,19 @@ Eclipse/ Intellij 최초 프로젝트 메이븐 빌드 시 위와 같은 오류�
 <classpath>
   ...
   <classpathentry kind="con" path="org.maven.ide.eclipse.MAVEN2_CLASSPATH_CONTAINER"/>
+    <!--2023-02-10 추가 -->
+    <attributes>
+      <attribute name="maven.pomderived" value="true"/>
+    </attributes>
   <classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER"/>
+    <!--2023-02-10 추가 -->
+    <attributes>
+      <attribute name="maven.pomderived" value="true"/>
+      <attribute name="org.eclipse.jst.component.dependency" value="/WEB/lib"/>
+    </attributes>
   ...
 </classpath>
-```
+```  
+
+  
 
