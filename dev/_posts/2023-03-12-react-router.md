@@ -16,16 +16,17 @@ tags:
   - React-Router
   - router-component
 ---
-* React Router 사용하기   
+
+## React Router 사용하기   
 SPA 리액트 프로젝트에서 .html file 갯수는 1개 (MPA 에서는 브라우저측에서 라우팅 처리할 필요 없음)  
 한 개의 웹페이지(.html) 내에서 여러 개의 페이지를 보여주기 위해서는 라우팅이 필요하다.  
 리액트 자체 에는 라우팅 기능이 내장되어 있지 않아, 우리는 React Router library를 사용해 구현해야 한다.   
 
-* React Router란? 
+- React Router란? 
 React JavaScript library를 위한 가볍고 완전한 기능을 갖춘 routing library 이다.  
 React Router는 웹, 서버(node.js 기반) 및 React Native 등 React가 실행되는 모든 곳에서 동작한다.  
 
-* React Router (npm v6.9.0 이상) 에서 제공하는 router-component  
+- React Router (npm v6.9.0 이상) 에서 제공하는 router-component  
 BrowerRouter(used a lot)  
 HashRouter(used a lot)  
 MemoryRouter  
@@ -33,7 +34,7 @@ RouterProvider
 Picking a Router  
 ...
 
-* BrowerRouter vs HashRouter
+## BrowerRouter vs HashRouter
   참고 링크 : [https://reactrouter.com/en/main/router-components/hash-router](참고 링크 : https://reactrouter.com/en/main/router-components/hash-router)
 BrowserRouter는 HTML5의 history API를 사용하여 URL을 처리한다. 
 브라우저에서 페이지를 새로 고침하지 않고도 URL을 업데이트할 수 있는 기능을 제공함.
@@ -51,12 +52,10 @@ BrowserRouter는 HTML5의 'history' API를 사용하여 URL을 처리하므로, 
 서버에서 모든 경로를 항상 동일한 파일로 처리할 수 있어 SPA 서버 측에서 라우팅을 구성하기 더 쉽다.
 따라서 서버가 정적인 콘텐츠를 제공하고, React 앱이 클라이언트에서 라우팅을 처리해야 하는 경우 HashRouter를 사용하는 것이 더 적합하고,
 서버가 동적인 콘텐츠를 생성하는 경우 BrowserRouter를 사용할 수 있다.
-
-
-
-* 간단한 예제
-
-BrowserRouter
+  
+## 간단한 예제
+  
+BrowserRouter  
 ```
 import React from 'react';
 import { BrowserRouter, Route, Link } from 'react-router-dom';
@@ -87,8 +86,8 @@ function App() {
   );
 }
 ```
-
-HashRouter
+  
+HashRouter  
 ```
 import { HashRouter, Route } from 'react-router-dom';
 
@@ -102,8 +101,8 @@ function App() {
   );
 }
 ```
-
-HashRouter는 URL의 해시 부분을 사용하여 페이지를 관리하며, 이를 통해 페이지를 다시 로드하지 않고도 다른 라우트로 이동할 수 있도록 해준다. 
+  
+HashRouter는 URL의 해시 부분을 사용하여 페이지를 관리하며, 이를 통해 페이지를 다시 로드하지 않고도 다른 라우트로 이동할 수 있도록 해준다.   
  예를 들어, /home, /about, /contact와 같은 URL 경로를 사용할 때, HashRouter는 URL의 해시 부분을 사용하여 /home#/, /about#/, /contact#/와 같이 표현.
 
 
