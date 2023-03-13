@@ -52,11 +52,9 @@ Interset for MSA, Flutter, React ...
 > Experience: Enterprise developer/ Application Architect  
 > 비즈니스 기반 IT Platform 구현을 위한 개발 경험 정리 
 
- 유기동물 보호를 통해 Social problem 해결을 위한 노력
-
- 크로스플랫폼에 대한 관심
-
- 작성 중 ...
+ 크로스플랫폼
+  
+ 벤처 창업 
 
 ## 주요 사용 기술
 
@@ -65,10 +63,6 @@ Java, Python, Flutter, React
 ## 서버 구성 및 운영
 
 AWS, Paas
-
-## 취미 생활
-
-Football, Tennis, Golf ... 
 
 ## 본 gitbub.io 블로그는 Jekyll + minimal-mistakes theme 를 사용해 만들었습니다.
 

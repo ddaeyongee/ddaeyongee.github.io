@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ee04979-15fc-4085-9c24-fd4038442536" name="Changes" comment="2023-2-10 포스팅 수정">
-      <change afterPath="$PROJECT_DIR$/dev/_posts/2023-03-12-react-router.md" afterDir="false" />
+    <list default="true" id="4ee04979-15fc-4085-9c24-fd4038442536" name="Changes" comment="2023-3-12 포스팅">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/_posts/2023-03-12-react-router.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/_posts/2023-03-12-react-router.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,14 +166,8 @@
       <workItem from="1675837220642" duration="3500000" />
       <workItem from="1675996844819" duration="770000" />
       <workItem from="1678586467419" duration="2683000" />
-      <workItem from="1678594241351" duration="588000" />
-    </task>
-    <task id="LOCAL-00001" summary="minimal-mistakes theme 적용">
-      <created>1672128934260</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1672128934260</updated>
+      <workItem from="1678594241351" duration="7363000" />
+      <workItem from="1678668456243" duration="59000" />
     </task>
     <task id="LOCAL-00002" summary="minimal-mistakes theme 적용">
       <created>1672129286145</created>
@@ -503,7 +498,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675997018218</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="2023-3-12 포스팅">
+      <created>1678594841705</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1678594841705</updated>
+    </task>
+    <task id="LOCAL-00050" summary="2023-3-12 포스팅">
+      <created>1678594846073</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1678594846074</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -534,6 +543,7 @@
     <MESSAGE value="font-size 변경" />
     <MESSAGE value="2023-2-8 포스팅" />
     <MESSAGE value="2023-2-10 포스팅 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-2-10 포스팅 수정" />
+    <MESSAGE value="2023-3-12 포스팅" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-3-12 포스팅" />
   </component>
 </project>
