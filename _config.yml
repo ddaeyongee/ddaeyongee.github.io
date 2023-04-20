@@ -37,7 +37,7 @@ paginate_path            : /page/:num/
 #  trail                  :
 #    before               : 2
 #    after                : 2
-theme_mode               : dark
+theme_mode               : "light"
 
 comments:
   provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "giscus", "custom"

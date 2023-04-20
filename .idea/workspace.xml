@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ee04979-15fc-4085-9c24-fd4038442536" name="Changes" comment="2023-3-12 포스팅 수정">
+    <list default="true" id="4ee04979-15fc-4085-9c24-fd4038442536" name="Changes" comment="2023-4-20 _config.yml 변경">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home_hero.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home_hero.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,14 +171,7 @@
       <workItem from="1678940637976" duration="641000" />
       <workItem from="1680923559178" duration="1231000" />
       <workItem from="1681730492188" duration="632000" />
-      <workItem from="1681977030709" duration="365000" />
-    </task>
-    <task id="LOCAL-00005" summary="minimal-mistakes theme customizing">
-      <created>1672193342563</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1672193342563</updated>
+      <workItem from="1681977030709" duration="1503000" />
     </task>
     <task id="LOCAL-00006" summary="minimal-mistakes theme customizing">
       <created>1672193590136</created>
@@ -515,7 +509,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681977228896</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="2023-4-20 _config.yml 변경">
+      <created>1681977424583</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1681977424583</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -548,6 +549,7 @@
     <MESSAGE value="2023-2-10 포스팅 수정" />
     <MESSAGE value="2023-3-12 포스팅" />
     <MESSAGE value="2023-3-12 포스팅 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-3-12 포스팅 수정" />
+    <MESSAGE value="2023-4-20 _config.yml 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-4-20 _config.yml 변경" />
   </component>
 </project>
