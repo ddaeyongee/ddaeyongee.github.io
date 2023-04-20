@@ -170,14 +170,7 @@
       <workItem from="1678940637976" duration="641000" />
       <workItem from="1680923559178" duration="1231000" />
       <workItem from="1681730492188" duration="632000" />
-      <workItem from="1681977030709" duration="170000" />
-    </task>
-    <task id="LOCAL-00004" summary="minimal-mistakes theme customizing">
-      <created>1672131644986</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1672131644986</updated>
+      <workItem from="1681977030709" duration="365000" />
     </task>
     <task id="LOCAL-00005" summary="minimal-mistakes theme customizing">
       <created>1672193342563</created>
@@ -515,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678668946027</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="2023-3-12 포스팅 수정">
+      <created>1681977228895</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1681977228896</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
